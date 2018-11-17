@@ -1,5 +1,7 @@
-Demonstrating GIT super
-master branch		
+
+Demonstrating GIT usage for students
+
+		
 have added some changes
 
 
